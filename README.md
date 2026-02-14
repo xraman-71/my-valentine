@@ -1,9 +1,7 @@
 # 💝 Valentine's Day Love Website
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ff69b4)](https://github.com/yourusername/valentine-website)
+[![Made with Love-By:AMANXR](https://img.shields.io/badge/Made%20with-❤️-ff69b4)](https://github.com/yourusername/valentine-website)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 A beautiful, romantic frontend web application designed to surprise your special someone on Valentine's Day. Features cinematic text animations, a mesmerizing starfield background, soft flute music, and adorable GIFs — all wrapped in a responsive, mobile-friendly design.
 
@@ -11,8 +9,7 @@ A beautiful, romantic frontend web application designed to surprise your special
 
 <div align="center">
 
-<img src="https://c.tenor.com/26BRv0ThflsAAAAM/dare-aggie-dare-aggie-bunny.gif" width="300" alt="Dare Aggie Bunny Love GIF">
-![Preview](https://tenor.com/ugSbsmXTfV3.gif)
+<img src="https://tenor.com/ugSbsmXTfV3.gif
 </div>
 
 ## ✨ Features
