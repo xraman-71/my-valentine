@@ -7,7 +7,13 @@
 
 A beautiful, romantic frontend web application designed to surprise your special someone on Valentine's Day. Features cinematic text animations, a mesmerizing starfield background, soft flute music, and adorable GIFs — all wrapped in a responsive, mobile-friendly design.
 
+## ✨ Preview
+
+<div align="center">
+
+<img src="https://c.tenor.com/26BRv0ThflsAAAAM/dare-aggie-dare-aggie-bunny.gif" width="300" alt="Dare Aggie Bunny Love GIF">
 ![Preview](https://tenor.com/ugSbsmXTfV3.gif)
+</div>
 
 ## ✨ Features
 
