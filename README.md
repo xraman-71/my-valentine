@@ -33,3 +33,23 @@ A beautiful, romantic frontend web application designed to surprise your special
 - **Tenor GIF API** — Embedded romantic animations
 
 ## 📁 Project Structure
+### Current Structure (Single File)
+
+This project is currently built as a **single-file application** for simplicity:
+
+| File | Purpose |
+|------|---------|
+| `index.html` | Contains all HTML markup, CSS styles, and JavaScript logic in one file |
+| `README.md` | Documentation and usage instructions |
+| `LICENSE` | MIT license for open source use |
+
+### Why Single File?
+
+- ✅ **Easy to share** — Just one file to send or deploy
+- ✅ **No build process** — Works immediately in any browser
+- ✅ **Simple hosting** — Upload to any static host (GitHub Pages, Netlify, Vercel)
+- ✅ **Beginner friendly** — Easy to understand and modify
+
+### For Larger Projects
+
+If you want to expand this project, consider splitting into:
