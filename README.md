@@ -1,6 +1,6 @@
 # 💝 Valentine's Day Love Website
 
-[![Made with Love-By:AMANXR](https://img.shields.io/badge/Made%20with-❤️-ff69b4)](https://github.com/xraman-71/valentine-website)
+[![Made with Love-By:AMANXR](https://img.shields.io/badge/Made%20with-❤️-ff69b4)](https://github.com/xraman-71)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 A beautiful, romantic frontend web application designed to surprise your special someone on Valentine's Day. Features cinematic text animations, a mesmerizing starfield background, soft flute music, and adorable GIFs — all wrapped in a responsive, mobile-friendly design.
